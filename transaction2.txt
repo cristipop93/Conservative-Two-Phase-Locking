@@ -1,0 +1,3 @@
+componente memorii r
+componente placivideo w 4 "gtx1080" 4000
+commit

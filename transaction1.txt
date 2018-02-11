@@ -1,0 +1,4 @@
+it telefoane r
+it telefoane w 4 "iphone6" 2000
+it telefoane d 3
+commit
